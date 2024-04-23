@@ -25,3 +25,5 @@ This project is distributed under the MIT License. See the LICENSE file for more
 ## Acknowledgments
 - Thanks to the community for providing the underlying technologies that make this tool possible.
 - Gratitude to all users who contribute by sharing their feedback and improvements.
+
+![image](https://github.com/walid-chaa/Exchanges-Crypto-Tracker/assets/146885585/0f5a5bae-c99a-40dc-a5dd-82b097c5d97e)
